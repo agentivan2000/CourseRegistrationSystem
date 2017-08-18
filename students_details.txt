@@ -1,0 +1,5 @@
+userName,studentID,FirstName,MiddleName,LastName,Dob
+imwanja,281,Ivan,,Mwanja,01/01/1987
+ajames,301,Akol,,James,01/01/1991
+xyz2,231,John,k,Mutesa,09/10/1989
+jem45,456,Junica,Esther,Mildred,01/01/2000

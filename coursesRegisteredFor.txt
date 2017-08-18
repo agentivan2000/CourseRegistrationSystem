@@ -1,0 +1,4 @@
+studentID,courseID,CourseName,startDate,endDate,description
+281,2017Y02,Physics II,04/02/2017,06/01/2017,Physics II ... well that's too much phyics for one year.. sigh.
+281,2017Q02,Advanced Buffoonery,05/01/2017,08/01/2017,Advanced concepts being a professional in clownery. 
+281,2017Z03,Advanced Walking Dead,01/01/2017,05/01/2017,ha! I knew you'd end up here. Prepare your costumes...wait is it halloween yet?

@@ -1,0 +1,11 @@
+courseID,CourseName,NumberOfStudentsRegistered,Max_Students,CanRegister,startDate,endDate,description
+2017X01,Java Programming I,2,30,true,01/01/2017,03/11/2017,An Introduction to programming by Jack Bauer from CTU. It introduces the basic concepts
+2017X02,Java Programming II,30,30,false,03/01/2017,06/01/2017,Advanced programming concepts by Jack Bauer from CTU.
+2017Y01,Physics I,1,30,true,02/01/2017,04/01/2017,Physics I what! whaaaaat!
+2017Y02,Physics II,3,30,true,04/02/2017,06/01/2017,Physics II ... well that's too much phyics for one year.. sigh.
+2017J01,Fundamentals of Graphics Design,1,30,true,01/02/2017,03/01/2017,An introduction to visual geniousness by captain Jack Sparrow 
+2017Q01,Introduction to Buffoonery,2,15,true,01/01/2017,06/01/2017,An introduction to being a nuisance at sports events. 
+2017Q02,Advanced Buffoonery,4,15,true,05/01/2017,08/01/2017,Advanced concepts being a professional in clownery. 
+2017P03,Earth Science I,6,15,true,02/01/2017,05/01/2017,Well you came to the right place.... I think. what are you looking for again?
+2017Z02,Introduction to the Walking Dead,45,45,false,01/01/2017,05/01/2017,Does this really need a description? If so you need some social skills first.
+2017Z03,Advanced Walking Dead,2,25,true,01/01/2017,05/01/2017,ha! I knew you'd end up here. Prepare your costumes...wait is it halloween yet?
